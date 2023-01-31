@@ -12,7 +12,7 @@ Customers who book a flight with BA will experience many interaction points with
 
 The data will be very messy and contain purely text. I performed data cleaning in order to prepare the data for analysis. When the data is clean, I perform my own analysis to uncover some insights.More details is included in the [google colab notebook](https://colab.research.google.com/drive/1WOu1PvovAO9bthdGcy5ZFxGD9Upu8wbS?usp=sharing).
 
-The first thing to do will be to scrape review data from the web. For this, you should use a website called (Skytrax)[https://www.airlinequality.com/].
+The first thing to do will be to scrape review data from the web. For this, you should use a website called [Skytrax](https://www.airlinequality.com/).
 I used python BeautifulSoup for this part.
 
 Finally, I summarised my findings within a single PowerPoint slide to be submmited.
